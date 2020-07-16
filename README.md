@@ -1,1 +1,1 @@
-# practice
+#array practice question geeksforgeeks
